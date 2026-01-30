@@ -6,7 +6,6 @@
 
 - A missziós lépéseket Istentől kapták (ugyanazokat többen is!).
 - E módszer által egy stagnáló létszámú gyülekezet erőteljes növekedésnek indult.
-- Általános elveket, lépéseket fogalmaz meg, amiket szinte bármely gyülekezet alkalmazhat.
 - Ahogyan létrejött ez a módszer, az egy tanulság számunkra, hogy hogyan kérhetünk útmutatást Istentől. Tehát nem muszáj követni az alábbi módszert, hanem kövessük azt, amire Isten elvezet bennünket.
 
 ### Forrás
