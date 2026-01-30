@@ -1,5 +1,12 @@
 # **Egy hatékony gyülekezeti missziós és növekedési módszer: Pavel Goia és egy volt gyülekezetének módszere Istentől nyert útmutatás alapján**
 
+## Tartalomjegyzék
+
+- [Bevezetés](#bevezetés)
+  - [Elöljáróban: Miért különleges ez a módszer?](#elöljáróban-miért-különleges-ez-a-módszer)
+
+TODO
+
 ## Bevezetés
 
 ### **Elöljáróban: Miért különleges ez a módszer?**
@@ -25,7 +32,9 @@ Angolul tudóknak ajánlom Pavel doktori disszertációját erről a gyülekezet
 #### Prezentáció
 
 Pavel mindkét videóban használt prezentációkat, a második folytatása az elsőnek. E prezentációk diáit néha megmutatták a videókban, így le tudtam menteni ezeket a diákat. Miután lementettem, ezután csináltam egy fordítás prezentációt.
+
 A videókból összeszedett prezentáció elérhető itt: https://raw.githubusercontent.com/peterpolgar/gyulekezeti-novekedes/main/gyulekezeti_misszio_Pavel_Goia_videokbol_szedett_diak.pdf
+
 A lefordított prezentáció elérhető itt: https://raw.githubusercontent.com/peterpolgar/gyulekezeti-novekedes/main/gyulekezeti_novekedes_ima_altal_Pavel_Goia_prezentacio_forditas.pdf
 
 ### A városról, melynek gyülekezetéhez Pavelt felkérték lelkésznek.
