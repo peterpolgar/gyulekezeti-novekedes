@@ -49,7 +49,7 @@
   - [6. lépés: Szükségesnek-érzett szemináriumok (plusz felmérés a vágyott szemináriumokért)](#6-lépés-szükségesnek-érzett-szemináriumok-plusz-felmérés-a-vágyott-szemináriumokért)
   - [7. lépés: Evangelizálás](#7-lépés-evangelizálás)
       - [Munka adás az érdeklődőknek](#munka-adás-az-érdeklődőknek)
-      - [7. lépés folytatása](#7-lépés-folytatása)
+      - [7. lépés leírásának folytatása](#7-lépés-leírásának-folytatása)
   - [8. lépés: Nyomonkövetés](#8-lépés-nyomonkövetés)
   - [9. lépés: Elemzés, fejlődés](#9-lépés-elemzés-fejlődés)
   - [10. lépés: A folyamat ismétlése](#10-lépés-a-folyamat-ismétlése)
@@ -375,7 +375,7 @@ Tehát nem lehet azt mondani, hogy könnyű dolguk volt abban a városban a miss
 - Figyelem, a lusta adventisták nem adventisták. Csak azok akik dolgoznak.
 - Tehát Pavel mindenkinek munkát adott, mondva „az Adventista Egyháznak 28 hitelve van, nekem 29” „Mit értesz ez alatt Pásztor?” „Az én gyülekezetemben a 29. hitelv az az, hogy **nem kellene lustának lenned**. Ha lusta vagy, nem fogsz megkeresztelkedni a gyülekezetembe. Amikor megkeresztelkedsz, már munkás vagy. Ha lusta vagy, menj egy másik gyülibe, akkor nem üdvözlünk téged.” Mindenkinek dolgoznia kell.
 
-### 7\. lépés folytatása
+#### 7\. lépés leírásának folytatása
 - Evangélizációkor, valamikor Pavel, valamikor más neves előadók beszéltek.
 - Pavel tanulságos története: Pavel kiemel egy neves előadót, aki nagy városokban evangélizált, és míg a Pavel városában 51-en keresztelkedtek meg, a következő városban 0. Erre annak a városnak a lelkésze felkereste Pavelt, hogy az a neves előadó ott jobb előadást adott? Pavel: Nem, ő ugyanazt az előadást adta, ugyanazok a diák. „De akkor te miért keresztél 51-et én meg 0-t?” Pavel: Hány napig imádkoztál? „Nem imádkoztunk.” Pavel: mi 80 napig imádkoztunk, mi hiszünk az ima erejében, hiszünk Isten erejében. Hány Biblia tanulmányt végeztetek? „0” Mi 270-et. Mennyi közösségi tevékenységet végeztetek (a városban)? „0” Mi kb. három hónapig minden vasárnap. Mennyi szemináriumot végeztetek a gyülekezetedben? „0” Mi 24-25 szemináriumot tartottunk a gyülinkben. Nem csinálhatsz semmit valami eredményt várva! Nem szüretelhetsz paradicsomot, ha nem plántáltál.
 - Ha imádkozol és dolgozol, Isten megáldja a munkádat (jó eredménnyel).
