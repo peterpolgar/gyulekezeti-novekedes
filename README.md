@@ -4,8 +4,57 @@
 
 - [Bevezetés](#bevezetés)
   - [Elöljáróban: Miért különleges ez a módszer?](#elöljáróban-miért-különleges-ez-a-módszer)
-
-TODO
+  - [Forrás](#forrás)
+    - [Prezentáció](#prezentáció)
+  - [A városról, melynek gyülekezetéhez Pavelt felkérték lelkésznek.](#a-városról-melynek-gyülekezetéhez-pavelt-felkérték-lelkésznek)
+  - [Mettől meddig tartott ez a különös módszer, amit Pavel projektnek nevez?](#mettől-meddig-tartott-ez-a-különös-módszer-amit-pavel-projektnek-nevez)
+- [A módszer címe: Gyülekezeti növekedés ima által - Esettanulmány](#a-módszer-címe-gyülekezeti-növekedés-ima-által---esettanulmány)
+- [Alapelvek](#alapelvek)
+  - [Szolgálat által válunk erősebbé](#szolgálat-által-válunk-erősebbé)
+  - [Istenben bízzunk, ne magunkban](#istenben-bízzunk-ne-magunkban)
+  - [Ígéret](#ígéret)
+  - [Mi a Lélek eljövetelének feltétele?](#mi-a-lélek-eljövetelének-feltétele)
+  - [Miért imádkozzunk?](#miért-imádkozzunk)
+  - [Az imameghallgatás feltétele](#az-imameghallgatás-feltétele)
+  - [Hit a megbocsátásban](#hit-a-megbocsátásban)
+  - [Hogyan vezethetünk egy érdeklődőt, idegent Istenhez?](#hogyan-vezethetünk-egy-érdeklődőt-idegent-istenhez)
+    - [Meghívásos módszer](#meghívásos-módszer)
+  - [Hogyan imádkozzunk?](#hogyan-imádkozzunk)
+    - [Kitartóan imádkozzunk!](#kitartóan-imádkozzunk)
+    - [Isten ígéreteibe való kapaszkodás](#isten-ígéreteibe-való-kapaszkodás)
+    - [Imádkozás gyakorlati minták](#imádkozás-gyakorlati-minták)
+    - [Minden nap ezt is imádkozzuk:](#minden-nap-ezt-is-imádkozzuk)
+  - [Az együtt imádkozás előnye](#az-együtt-imádkozás-előnye)
+  - [A mesterhármas módszer](#a-mesterhármas-módszer)
+  - [Miről tudod, hogy valami Isten terve-e?](#miről-tudod-hogy-valami-isten-terve-e)
+  - [Isten hangja](#isten-hangja)
+  - [A lustaság rossz, a szorgalom jó](#a-lustaság-rossz-a-szorgalom-jó)
+- [Az Istennel való kapcsolatfelvétel első lépései](#az-istennel-való-kapcsolatfelvétel-első-lépései)
+- [Pavel gyülekezetének kezdeti háttere / kontextusa](#pavel-gyülekezetének-kezdeti-háttere--kontextusa)
+- [Pavel szerint a nem növekedés problémájának oka](#pavel-szerint-a-nem-növekedés-problémájának-oka)
+- [A növekedési / missziós lépések:](#a-növekedési--missziós-lépések)
+  - [1. lépés: Imádkozás - egy imakultúra fejlesztése](#1-lépés-imádkozás---egy-imakultúra-fejlesztése)
+    - [Értük](#értük)
+    - [Velük együtt](#velük-együtt)
+      - [Először telefonon vagy interneten keresztül](#először-telefonon-vagy-interneten-keresztül)
+      - [Majd személyesen](#majd-személyesen)
+    - [Ők is imádkoznak](#ők-is-imádkoznak)
+    - [Imádkoznak a közösségért, A gyülekezet egy imádkozó gyülekezetté válik](#imádkoznak-a-közösségért-a-gyülekezet-egy-imádkozó-gyülekezetté-válik)
+  - [2. lépés: Prédikálás (plusz látogatás)](#2-lépés-prédikálás-plusz-látogatás)
+  - [3. lépés: Vizionálás [előre tervezése, elképzelése a jövőbeli munkának]](#3-lépés-vizionálás-előre-tervezése-elképzelése-a-jövőbeli-munkának)
+      - [Imádkozás, hogy mit csináljunk](#imádkozás-hogy-mit-csináljunk)
+      - [Imádkozás, hogy hogyan csináljuk, imádkozás Isten tervéért](#imádkozás-hogy-hogyan-csináljuk-imádkozás-isten-tervéért)
+  - [4. lépés: Biblia tanulmányok](#4-lépés-biblia-tanulmányok)
+  - [5. lépés: Közösségi bevonás – hogy az egyház ismertté és megbízhatóvá váljon](#5-lépés-közösségi-bevonás--hogy-az-egyház-ismertté-és-megbízhatóvá-váljon)
+  - [6. lépés: Szükségesnek-érzett szemináriumok (plusz felmérés a vágyott szemináriumokért)](#6-lépés-szükségesnek-érzett-szemináriumok-plusz-felmérés-a-vágyott-szemináriumokért)
+  - [7. lépés: Evangelizálás](#7-lépés-evangelizálás)
+      - [Munka adás az érdeklődőknek](#munka-adás-az-érdeklődőknek)
+      - [7. lépés folytatása](#7-lépés-folytatása)
+  - [8. lépés: Nyomonkövetés](#8-lépés-nyomonkövetés)
+  - [9. lépés: Elemzés, fejlődés](#9-lépés-elemzés-fejlődés)
+  - [10. lépés: A folyamat ismétlése](#10-lépés-a-folyamat-ismétlése)
+- [Egyéb módszerek](#egyéb-módszerek)
+- [Eredmények](#eredmények)
 
 ## Bevezetés
 
@@ -49,108 +98,106 @@ Tehát nem lehet azt mondani, hogy könnyű dolguk volt abban a városban a miss
 
 2011 elejétől 2016 Decemberéig (Decemberben ért véget), tehát majdnem 6 év.
 
-## **A módszer összefoglalása**
+## A módszer címe: Gyülekezeti növekedés ima által - Esettanulmány
 
-### A módszer címe: Gyülekezeti növekedés ima által - Esettanulmány
+## Alapelvek
 
-### Alapelvek
-
-#### Szolgálat által válunk erősebbé
+### Szolgálat által válunk erősebbé
 - Isten nem azért hív téged, mert szüksége van rád, hanem azért, mert csak szolgálat által növekedsz erősebbé. Ha nem szolgálsz, gyenge vagy. (EW)
 - Minden példázatban, amit Jézus adott, senki sincs megmentve, hacsaknem szolgálnak, hacsaknem gyümölcsöt teremnek, hacsaknem használják a tálentumaikat, hacsaknem dolgoznak, ha ezek nem teljesülnek nincsenek biztonságban.
 - Amikor Jézus arról beszélt, hogy Isten munkásokat keres az ő aratásába, ez a kijelentés nem csak lelkészekre vonatkozik, hanem mindenkire. Jézus mindenkit munkába hív a szőlőskertjébe.
 
-#### Istenben bízzunk, ne magunkban
+### Istenben bízzunk, ne magunkban
 - “Ma Isten népének azért nincs nagyobb ereje, mert saját bölcsességében bízik és nem ad alkalmat Istennek, hogy hatalmát érette kinyilatkoztassa.” {PP 493.2} (Pátriárkák és Próféták könyvből)
 - Isten erejében menj, ne a te erődben.
 - Soha ne vond kétségbe Isten tervét, mert Isten terve olyan messze van a te tervedtől, mint Menny a Földtől. Bíznod kell Istenedben.
 - __Nem kell értened Isten tervét, hogy engedelmeskedj, ismerned kell Istent és bízni Istenben azért, hogy engedelmeskedj.__
 
-#### Ígéret
+### Ígéret
 - „Nem lesz kisebb az az erő, amivel Isten az evangélium hatalmas munkáját lezárja, mint amilyennel ezt a munkát elindította.” {GC 611.3} (A nagy küzdelem könyvből)
 
-#### Mi a Lélek eljövetelének feltétele?
+### Mi a Lélek eljövetelének feltétele?
 - „A gyülekezetnek munkába kell állnia! Isten Lelke nem jöhet el addig, amíg az út el nem készül számára. Komoly önvizsgálatot kellene tartani! Egyesült és kitartó imádkozásra, valamint hit által az Isten ígéreteire való hivatkozásra van szükség.” {1SM 126.2} (Szemelvények 1. kötet)
 - Azt mondja EW, hogy „Amikor a tanítványok együtt imádkoztak, minden feszültség, minden széthúzás, minden konfliktus eltűnt. Így előkészítették a Szent Lélek útját.”
 
-#### Miért imádkozzunk?
+### Miért imádkozzunk?
 - Isten mondta, hogy imádkozz, imádkoznod kell, ez a te áldásod, áldásokat kapsz amikor imádkozol.
 - A Jézus eljövetelére való előkészület egy részeként, Jézus azt mondta, hogy imádkozzunk és figyeljünk.
 - **Máté 18:19** Ismét, mondom nektek, hogy ha ketten közületek egy akaraton lesznek a földön minden dolog felől, amit csak kérnek, megadja nekik az én mennyei Atyám.
     **Máté 18:20** Mert ahol ketten vagy hárman egybegyűlnek az én nevemben, ott vagyok közöttük.
 
-#### Az imameghallgatás feltétele
+### Az imameghallgatás feltétele
 - A bűnvallomás egy fontos lépés ahhoz, hogy Isten meghallgassa imáinkat. (Jákób története)
 
-#### Hit a megbocsátásban
+### Hit a megbocsátásban
 - Pavel: „Mi van ha nincs nekem megbocsátva? Neked meg van bocsátva. Állj le Isten ígéretének kétségbevonásával. Isten nem hazudik. Vedd az Ő szavát. Abban a pillanatban, amikor bevallottad bűneidet, Isten elveszi bűnödet és magára veszi, és az Ő igazságosságát tulajdonítja neked.”
 
-#### Hogyan vezethetünk egy érdeklődőt, idegent Istenhez?
+### Hogyan vezethetünk egy érdeklődőt, idegent Istenhez?
 - Ellen White azt mondja, hogy Krisztus módszere egyedül, mi is az? Együtt evett velük, elvegyült közöttük, meghallgatta őket, barátságokat épített, kapcsolatokat épített, bizalmat épített és közeli barátságot, és ez után mondta azt, hogy „Kövess engem”.
 - EW mondja, hogy te soha nem tudsz vezetni egy idegent Krisztushoz, csak egy barátot.
 - Tehát miután barátságot építünk ki valakivel, azután fokozatosan adjuk a dolgokat, először a megváltásról, aztán a szombatról. A kereszttel kezdjünk, hogy megértsék Isten szeretetét. Mi van ha kérdeznek? Ne mondd el nekik, engedd, hogy könyörögjenek válaszért, mert ha elmondod nekik, azt fogják hinni, hogy van egy propagandád, ha rákérdeznek, akkor méltányolni fogják a választ, ne mondd el nekik.
 - Jézus példáját látva kijelenthető, hogy: Senki nem tud vezetni egy idegent Istenhez, csak egy barátot. Barátságot kell építened, hogy az emberek megbízzanak benned. Mielőtt meghívod őket, először kapcsolat kell építeni velük.
 
-##### Meghívásos módszer
+#### Meghívásos módszer
 - Bevált módszer: ha meghívunk idegent magunkhoz, akkor mondjuk azt, hogy ebből a házból senki nem távozhat anélkül, hogy ne imádkoznánk érte, majd azt, hogy neked nem kell imádkoznod (csak csukja be a szemét), majd megkérdezzük, hogy miért szeretné, ha imádkoznék. Imádkozni még étkezés előtt. Először az ételért, majd az idegenért imádkozunk.
 - Bevált módszer: Meghívni az idegen(eke)t az együtt játszásra. Próbáljuk rendszeressé tenni az összejöveteleket. Egy idő után, evés és játék után, imádkozzunk együtt a vendégekkel.
 
-#### Hogyan imádkozzunk?
+### Hogyan imádkozzunk?
 - Hetente egyszer egy órát imádkozzunk egy célért.
 - Számon tartani az imacélokat, és a már beteljesült célokat.
 - Imádkozzunk Isten munkájáért.
 - A ketten vagy hárman összegyűlnek… elv nagyon hangsúlyos.
 - Addig imádkozzunk míg választ nem kapunk. Azaz legyünk kitartóak imában.
 
-##### Kitartóan imádkozzunk!
+#### Kitartóan imádkozzunk!
 - Nem szabad feladni az imádkozást, mint a bíró előtti asszony, mint a szomszédhoz kenyérért menő ember.
 - Amennyire beleteszed a szíved az imába, azzal arányosan kapod az áldásokat és válaszokat.
 - Az a problémánk, hogy kis imákkal nagy válaszokat várunk, mivel nem vagyunk elkötelezettek. A hit emberei a Bibliában a hit emberei voltak, Ábrahám, Mózes, János, Péter, Pál, …, ők eljutottak arra a szintre, hogy Istennel beszéltek, és ilyennek kellene lennünk.
 
-##### Isten ígéreteibe való kapaszkodás
+#### Isten ígéreteibe való kapaszkodás
 - Isten megígérte, hogy nem a te érdemed, hanem az Ő neve az univerzum előtt, Ő megtartaná szavát a neve kedvéért. Isten megígérte, tehát azt mondtuk, hogy „Uram, megígérted, szükséges elmondanod nekünk, hogy mit csináljunk.”
 
-##### Imádkozás gyakorlati minták
+#### Imádkozás gyakorlati minták
 - Pavel és felesége ketten elkezdtek imádkozni minden reggel 5-6 óráig, hogy Isten megadná nekik a módszert és megváltoztatná a gyülekezetet. Az első hónaptól kezdve elkötelezték magukat, hogy havonta 1 órával növelik az imádkozás idejét. Tehát 1. hónapban 5-6 óráig imádkoztak, 2. hónapban 4-6 óráig, 3. hónapban 4-7 óráig. Utána tartották a 4-7-ig imádkozást.
 
-##### Minden nap ezt is imádkozzuk:
+#### Minden nap ezt is imádkozzuk:
 - „Uram, segíts, hogy egy imádkozó személy legyek mától fogva.
 - Segíts, hogy egy dolgozó személy legyek mától fogva. Szeretnék szolgálni. Szeretnék olyan lenni mint Jézus. Segítséget kérek.
 - Uram, adj nekem lehetőségeket. Nyisd fel a szememet, hogy lássam az embereket, akiknek szüksége van a segítségemre.”
 
-#### Az együtt imádkozás előnye
+### Az együtt imádkozás előnye
 - EW mondja: „Amikor emberek együtt imádkoznak, ez közelebb viszi őket Istenhez, és közelebb egymáshoz, a konfliktusok eltűnnek.” 
 - Továbbá azt mondja EW, hogy „Amikor a tanítványok együtt imádkoztak, minden feszültség, minden széthúzás, minden konfliktus eltűnt. Így előkészítették a Szent Lélek útját.”
 - Amikor emberek együtt imádkoznak, akkor egységbe kerülnek, és előkészítik az útját a Szent Lélek eljövetelének.
 
-#### A mesterhármas módszer
+### A mesterhármas módszer
 - __Imádkozz, tervezz és dolgozz.__ Addig kell imádkozni amíg Isten nem válaszol. Igényeljük Isten ígéreteit. EW mondja: imádkozz, tervezz, dolgozz. Ha így teszünk Isten eredményeket ad.
 
-#### Miről tudod, hogy valami Isten terve-e?
+### Miről tudod, hogy valami Isten terve-e?
 - Nagyon egyszerű, __ha az a terv kicsi és normális, az a te terved. Ha az a terv nagy és őrült, az Isten terve.__
 - __Ha Isten adja neked a tervet, Isten adja az áldásokat és az erőforrásokat. Ha a te terved, ne kérd az Ő áldását. Ha Isten terve, akkor megkapod az Ő áldását.__
 - Nagyon fontos, amikor Isten dolgozik, semminek nincs értelme. Emberek azt mondják, hogy én ezt nem tudom csinálni, én nem értem. Ne próbáld megérteni Istent, próbálj meg bízni Istenben. Nem kell megértened Isten, mert a te agyad kicsi Isten agyához képest, ami végtelen. Soha nem érted meg Istent, mert nem vagy Isten. Neked bíznod kell Istenben. Bízni és engedelmeskedni. Nincs más út.
 - Honnan ismerjük Isten tervét? Istennel kell töltened időt. Minőség időt kell töltened imádságban és ige / munka tanulmányozásban. EW azt mondja a 6. bizonyságtételekben, hogy ima által Istenhez beszélünk, az ige által Isten beszél hozzánk. És EW azt mondja, hogy imádkozás és az ige tanulmányozása soha ne legyenek elkülönítve egymástól, ez kettő csak együtt megy, mint egy dialógus, imádkozol és tanulmányozol, így te beszélsz és Isten beszél. Az ima a lélek lélegzetvétele. A lélegzés kétirányú, épp így, te beszélsz, Isten beszél, te beszélsz, Isten beszél… . Amit te mondasz, az nem annyira fontos, amit Isten mond, az az igazán fontos. Isten beszél az ige által, úgyhogy neked tanulmányozni kell. Imádkozz és tanulmányozz, ezáltal megismered Istent, mert nem azért tanulmányozol, mert kötelesség, hanem azért, hogy megismerd Istent. Mi a tanulmányozás haszna, ha nem ismered Jézust. A Biblia azt mondja, hogy egy végtelen élet az az, hogy ismerni Istent. Tanulmányozás által megértjük, hogy Isten mit akar nekünk mondani.
 
-#### Isten hangja
+### Isten hangja
 - Valaki mondja: „Pásztor, honnan ismered Isten hangját. Hogyan különbözteted meg Isten hangját a saját hangodtól, Sátán hangjától, és a hangtól, amikor túl sok pizzát eszel és nem alszol eleget. Hogy különbözteted meg Isten hangját?”
 - Pavel: „Nagyon egyszerű. Ha hívsz engem, én ismerem a hangodat. Amikor a feleségem telefonál, nincs szükség azt mondanom, hogy ki beszél, ismerem a hangját. Honnan ismerem feleségem hangját. Onnan, hogy beszélgetünk egész idő alatt. Ne várd, hogy megtudod Isten hangját, ha soha nem beszéltél Vele, csak krízisekben. Beszélned kell Vele minden időben, és így megtanulod az Ő hangját. A Biblia azt mondja, hogy az én nyájam ismeri az én hangomat.”
 - „Amikor imádkozol és tanulmányozol, ismered a hangot, mert egész idő alatt beszélsz, és tudod az üzenetet, mert Isten nem változik, mi változunk, Ő nem, Ő konzisztens az egész Biblián keresztül, az üzenete mindig ugyanaz. Ha kitartóan beszélsz Istenhez, meg fogod ismerni az Ő hangját, és megismered az Ő üzenetét. Hogyan várod megtanulni Isten hangját, ha nem beszélsz Vele? Időt kell töltened Vele, hogy megtanuld az Ő hangját.”
 
-#### A lustaság rossz, a szorgalom jó
+### A lustaság rossz, a szorgalom jó
 - Amikor emberek dolgoznak, akkor növekednek. A lusta emberek semmit sem csinálnak, amit csinálnak, kritizálják azokat, akik dolgoznak. A dolgozóknak nincs ideje kritizálni, mert Isten szolgálatával vannak elfoglalva.
 - Figyelem, a lusta adventisták nem adventisták. Csak azok, akik dolgoznak. EW mondja: „Csak akik igazán megtértek van szenvedélyük az elveszettek iránt. És ők szeretik az elveszettet, ahogy Jézus szereti őket. Azok, akik nem éreznek szenvedélyt az elveszett iránt, még sosem tértek meg igazán, mégha meg is keresztelkedtek akkor is, az ilyen embereknek aggódniuk kellene az üdvösségükért.”
 - Ha imádkozol és dolgozol, Isten megáldja a munkádat (jó eredménnyel).
 - Akik nem csinálnak semmit, ők nem egészségesek lelkileg.
 
-### Az Istennel való kapcsolatfelvétel első lépései
+## Az Istennel való kapcsolatfelvétel első lépései
 
 - A megbocsátást nem lehet érezni, nem elektromosság, a megbocsátás hit által van, hit által vagy megmentve.
 - __1. lépés__: Kérj megbocsátást a bűneidre, Isten azonnal megbocsát. És dicsőítsd Isten amiért ő megbocsát neked.
 - __2. lépés__: Hogyan imádkozol? … Hogyan kellene: a problémádon tartod a szemed ahelyett, hogy Jézuson tartanád a szemed. Pál, Péter példái. Ne a problémákon, bűnökön, magadon, drogokon elmélkedj, miután meg lett neked bocsátva, már nem vagy bűnös, Isten új kezdetet adott neked, újjászülettél, szent vagy, … Jézus vére. EW mondja: ha a szemünket a bűnön tartjuk, akkor vissza megyünk ahhoz a bűnhöz, mert amin időzöl azzal foglalkozik az elméd. Istenre, Jézusra kell nézni, imában is. Sátán akarja, hogy a bűneinkre nézzünk, hogy elbátortalanodjunk, és akkor haszontalanokká válunk. Ne a kétségről imádkozzunk, hanem hitből imádkozzunk. Jézusra nézz, és az ő igéreteire, és ne beszélj drogokról.
 - __3. lépés__: Biblia tanulmányt kell adnod. Miután meg lettek bocsátva a bűneid, és miután Jézusra helyezed tekinteted, soha nem fogsz felnőni érettségre, hacsaknem dolgozol, dolgozás által erősebbé válsz és növekedsz. Növekedni akarsz, vagy egy bébi akarsz maradni, mindig gyenge? Erőssé kell növekedned, ezért szolgálnod szükséges, dolgoznod szükséges.
 
-### Pavel gyülekezetének kezdeti háttere / kontextusa
+## Pavel gyülekezetének kezdeti háttere / kontextusa
 - Nincs növekedés: a konferencia könyvek szerint 72 éve nem volt növekedése. 200 főről visszaesett a létszáma 90-re.
 - Megosztottság, konfliktusok: ez a gyülekezet 3 részre szakadt: nagyon liberális, nagyon konzervatív, és a csoport, ami nem hisz a Szent Lélekben. És a három csoport küzdött egymással.
 - Alacsony szolgálatba való bevonási arány (10-20% volt bevonva).
@@ -162,7 +209,7 @@ Tehát nem lehet azt mondani, hogy könnyű dolguk volt abban a városban a miss
 - A gyülekezet hívott híres prédikátorokat és sok pénzt költött hogy ők előadást tudjanak tartani, de semmi eredményt nem értek el ezzel (kevés látogató, 0 keresztelkedés).
 - Baptista ellenállás, amikor a gyülekezet evangélizációt tartott, akkor a baptista lelkészek azt mondták a tagjaiknak, hogy ne menjetek oda, az egy ördögi egyház, az egy szekta, ne menjetek oda. És így senki nem ment.
 
-### Pavel szerint a nem növekedés problémájának oka
+## Pavel szerint a nem növekedés problémájának oka
 - Pavel szerint a probléma nem ott van, hogy kevés az aratnivaló, sem nem az a probléma, hogy nem jó prédikátorokat hívnak, hanem a probléma forrása __a gyülekezet tagjai egyenként, mivel lusták és komfortosak Istennek dolgozni, továbbá túl keveset imádkoznak.__
 - A tagok próbálták a lelkész és a presbiterekre kenni a bajt, hogy ők a hibásak, de Pavel azt mondja, hogy te vagy tik vagytok a hibásak, akik ezt mondjátok. Isten nem azt kérdi, hogy mit csinált a szomszédod, hanem mit csináltál te.
 - Ne várd, hogy paradicsomokat arassál, ha soha nem plántáltál paradicsomot. De ha imádkozol és ültetsz és dolgozol a kertedben, akkor aratásod lesz. Az ok, amiért nincs eredményünk az nem Isten hibája, hanem a mi hibánk. Ha azt tesszük, amit Isten mond, akkor eredményünk lenne.
@@ -172,14 +219,14 @@ Tehát nem lehet azt mondani, hogy könnyű dolguk volt abban a városban a miss
 - Ha győzelmet akarsz, el kell fogadnod Isten tervét.
 - Mondhatjuk a kifogásokat, hogy szegények vagyunk, kicsik vagyunk, kevesen vagyunk. A tanítványokra pont ezek voltak a jellemzők. De ez nem arról szól, hogy te mit tudsz tenni, ez arról szól, hogy Isten mit tud tenni. Korlátozzuk Istent az engedelmesség hiánya és a hit hiánya miatt. Szóval nem számít, hogy szegények vagyunk és kevesen, imádkozzunk.
 
-### A növekedési / missziós lépések:
+## A növekedési / missziós lépések:
 - Megváltoztathatjuk a módszert, de az alapelvek ugyanazok, imádkozz, tervezz, dolgozz, az alapelvek ugyanazok, talán megváltoztathatjuk, hogy mikor csináljuk, hogy melyik házban kellene csinálni, megváltoztathatjuk a részleteket, de az alapelvek nem változnak.
 
 (A lépéseknél az időtartamokra vonatkozó adatok ki vannak emelve, hogy egyből lássuk, mit mennyi ideig kellene csinálni.)
 
-#### 1\. lépés: Imádkozás - egy imakultúra fejlesztése
+### 1\. lépés: Imádkozás - egy imakultúra fejlesztése
 
-##### Értük
+#### Értük
 - Pavel és felesége ketten elkezdtek imádkozni __minden reggel 5-6 óráig__, hogy Isten megadná nekik a módszert és megváltoztatná a gyülekezetet. __Az első hónaptól kezdve__ elkötelezték magukat, hogy __havonta 1 órával__ növelik az imádkozás idejét. Tehát __1. hónapban 5-6 óráig__ imádkoztak, __2. hónapban 4-6 óráig__, __3. hónapban 4-7 óráig__. __Utána tartották a 4-7-ig imádkozást__.
 - Pavel minden hétfőn egész nap imádkozott a gyülekezetben minden szék fölött, minden helyiségben. Felesége meg minden szerdán böjtölt.
 - Imában ezt is mondták: "Hozzád jöttünk mert kétségbe vagyunk esve, mert mi nem tudjuk megcsinálni, segítségre van szükségünk, és mi nem hagyjuk abba, így neked szükséges válaszolni. Megígérted, és mi bízunk szavadban, így neked szükséges válaszolni.", „Uram, megígérted, szükséges elmondanod nekünk, hogy mit csináljunk.”
@@ -187,18 +234,18 @@ Tehát nem lehet azt mondani, hogy könnyű dolguk volt abban a városban a miss
 - Az __első két hónap imádkozás__ alatt (amikor értük imádkoztak), Pavel és felesége vették a gyülekezeti könyvet (névsort), és imádkoztak minden családért és minden névért, minden anyáért, minden apáért, minden gyerekért, minden presbiterért, minden diakónusért, minden szombatiskolavezetőért, minden…. Névről névre minden családért imádkoztak.
 - Pavel: „__Kb. két hónap értük való imádkozás után__ folytattuk az értük folyó imádkozást és pluszba elkezdtük az imádkozást velük együtt.”
 
-##### Velük együtt
-###### Először telefonon vagy interneten keresztül
+#### Velük együtt
+##### Először telefonon vagy interneten keresztül
 - Pavel __minden nap__ felhívott öt családot, hogy „Héj, szeretnék veletek imádkozni.”
 - Amikor Pavel felhívott egy családot, azt kérdezte attól, aki felvette, hogy mondja el, hogy miért, milyen célért imádkozzon Pavel. Utána Pavel imádkozott értük, velük.
 - __Két hét után__ befejezte a családokkal való imádkozást, és __kezdte az egészet elölről akár ötször is__.
 - Egy eredmény: A családok méltányolták Pavel, mint pásztor, ezen erőfeszítéseit. Így Pavel megnyerte az ő bizalmukat, látták, hogy ő szereti őket, és törődik velük, és így a tiszteletüket is elnyerte, Isten emberének tartották.
 - Tehát a módszer, barátságot épített a családokkal, és így bizalmat épített velük. Mindezt azelőtt, hogy Pavel bármilyen változásra is megkérte volna őket.
 
-###### Majd személyesen
+##### Majd személyesen
 - Aztán Pavelék elkezdték látogatni a családokat, meghallgatva az ő bajaikat, és utána imádkozni az ő családjukért.
 
-##### Ők is imádkoznak
+#### Ők is imádkoznak
 - És ezután Pavel elkezdett __prédikálni az imáról 6 hónapon keresztül__, ugyanazt az igehirdetést minden szombaton, csak a bibliaverseket és a történeteket cserélte ki, minden más ugyanaz maradt. 6 hónap után odamentek Pavelhez és azt mondták: „Még sose hallottuk ezt.”
 - Miért kell ilyen sok ismétlés? Pszichológusok és az orvostudomány azt mondja, hogy ahhoz, hogy az agyi neuronok kapcsolódjanak szinopszisokkal, az agynak szüksége van hallani valamit hétszer vagy többször, és miután sokadjára hallod ugyanazt, végül a neuronok kapcsolódnak és emlékszel. A reklámokat is azért ismételgetik, hogy így rávegyék az embereket a vásárlásra.
 - Visszatérve, a 6 hónap után Pavelhez odamentek emberek és azt mondták, hogy „Még sose hallottuk ezt. Mi lenne ha elkezdenénk néhány imacsoportot?” Pavel 6 hónapig imádkozott, hogy ezt a kérdést feltegyék neki. [Polgár megjegyzése: Azaz nem nyomjuk az embereket, hogy legyenek már szívesek imádkozni, hanem Pavel módszerével felébresztjük az imádkozás iránti igényt, így már maguktól fogják kérni.]
@@ -207,26 +254,26 @@ Tehát nem lehet azt mondani, hogy könnyű dolguk volt abban a városban a miss
 - Külön imacsoportja volt a nyugdíjas embereknek, akik __minden hétfő reggel__ imádkoztak, a tanulóknak is külön, ők __szerda éjszaka__ imádkoztak, a doktoroknak is volt külön, ők minden __péntek éjszaka__ imádkoztak, és stb. imacsoportok. Ezek az imacsoportok otthonokban imádkoztak.
 - Egy eredmény: A gyülekezetben imádkozás által megszűntek a konfliktusok anélkül, hogy konfliktus megoldására irányuló találkozót szerveztek volna. Eltűntek a konfliktusok.
 
-##### Imádkoznak a közösségért, A gyülekezet egy imádkozó gyülekezetté válik
+#### Imádkoznak a közösségért, A gyülekezet egy imádkozó gyülekezetté válik
 - Pavelék imádkoztak a gyülekezeti tagokért, aztán velük együtt imádkoztak, aztán prédikáltak az imádkozásról, aztán, a tagok kezdtek el imádkozni, és aztán egymásért kezdtek el imádkozni, és ezután egység volt a gyülekezetben, és aztán elkezdtek imádkozni a közösségért (gondolom a városi közösségért), és ekkor a gyülekezet egy imádkozó gyülekezetté vált.
 - A Biblia mondja, „Az én házam imádság házának neveztetik minden nép között”. A gyülekezet azzá vált, aminek lennie kell: Imádság házává.
 - Ebben a gyülekezetben látunk egymásért imádkozó embereket.
 - És elhatározták, hogy senkit nem engednek ki a gyülekezetből, aki belépett a gyülekezet ajtaján, míg nem imádkoztak érte.
 - Egy eredmény: Azt mondták Pavelnek emberek, hogy amikor belépnek ebbe a gyülekezetbe érzik Isten jelenlétét, az emberek olyan sokat imádkoznak, hogy érezzük, hogy Isten itt van.
 
-#### 2\. lépés: Prédikálás (plusz látogatás)
+### 2\. lépés: Prédikálás (plusz látogatás)
 - Szisztematikus [rendszerezett] sorozatok bizonyos témákon, mint imádkozás, lelki növekedés, alárendelés, misszió, szolgálatba bevonás (használva az ajándékaikat), szeretet Isten iránt és szeretet emberek iránt.
 - Történetek megosztása / interjúk (rövid, odaillő).
 - Pavel prédikált az gyülekezeti növekedésről, a misszióról, a tálentumunk használatáról is.
 - Ezután Pavel elkezdte hívni a tagokat a saját házához, majd a presbiterek házaihoz, majd a diakónusok házaihoz, majd a tanítók házaihoz, majd ismét a saját házához. Miért? Mert a gyülekezetben, mint üzlet, de amikor találkozok egy házban, az mint barátok, mint család.
 - Azáltal, hogy szervezünk gyülekezeti közösségi kikapcsolódásokat, akár játékos közös alkalmakat, fejleszthetjük a gyülekezeti közösséget. Ilyen alkalmakkor nemcsak szórakozás, hanem egymásért való imádkozás is legyen, miután beszélgetünk dolgainkról. Az ilyen alkalmakat mondjuk __negyedévente__ lehet szervezni. Ezáltal még nagyobb egységben lesz a gyülekezet. A fiatalokat vonzzák az együtt evős, játszós alkalmak.
 
-#### 3. lépés: Vizionálás [előre tervezése, elképzelése a jövőbeli munkának]
+### 3. lépés: Vizionálás [előre tervezése, elképzelése a jövőbeli munkának]
 - Imádkozás Isten tervéért / stratégiájáért.
 - Imádkozás a Szent Lélekért.
 - Vezetők (és tagok) imádkoznak Isten víziójáért periodikusan.
 
-##### Imádkozás, hogy mit csináljunk
+#### Imádkozás, hogy mit csináljunk
 
 - Pavel meghívta őket a saját házához és azt mondta, hogy most nem játszunk, hanem imádkozunk és tervezünk. És Pavel elküldte őket az erdőbe azt mondva, hogy „menjetek az erdőbe és imádkozz, hogy Isten adja neked az Ő tervét, hogy hogyan érhetjük el ezt a várost.” Bementek az erdőbe, majd visszajöttek 2 perc múlva, és azt mondták, hogy „Van egy tervünk!” Pavel mondja: „Mondd el nekem.” valaki: „Ki akarjuk festeni a gyülekezetet” Pavel mondta: „Írd le.” Leírta. A következő személy ezt mondta: „Megvan a tervünk.” Pavel: „Okay” a személy: „A parkolót akarjuk rendbetenni.” Pavel: „Írd le.” Következő személy: „Mi időben akarjuk elkezdeni az egyházi alkalmakat.” Következő: „…”. Miután mindannyian odaadták a papírjaikat Pavelnek, Pavel bedobta a papírokat a tűzbe, és azt mondta,hogy „Ez nem Isten terve, ez a ti tervetek. Nincs szükségem a terveitekre. Isten tervét akarom.”. Ők kérdezték: „Miről tudod, hogy valami Isten terve-e?” Pavel: „Nagyon egyszerű, __ha az a terv kicsi és normális, az a te terved. Ha az a terv nagy és őrült, az Isten terve.__” Ők: „Hogy érted pásztor?” Pavel: „Ha megnézitek a Bibliában, minden alkalommal, amikor Isten tervet ad valakiknek, annak sosincs emberi értelme. Amikor Isten azt mondta Noénak, hogy építsen bárkát, ez nem volt őrültség? Amikor Isten azt mondta Mózesnek, hogy menjen a Fáraóhoz, ez nem volt őrültség? Amikor Isten azt mondta Mózesnek, hogy keljen át a Vörös-tengeren az nem volt őrültség? Amikor Isten azt mondta Józsuénak, hogy körözzön Jerikó körül, annak volt bármi értelme? Amikor Isten Josafátnak azt mondta, hogy tegye a kórust a hadsereg elé, akarnál egy ilyen kórusban énekelni? Amikor Isten azt mondta Gedeonnak, hogy menjen háborúba kard nélkül lámpással és a trombitával, ez nem volt őrültség? Amikor Isten adja neked a tervet, az olyan nagy, hogy emberi elme nem tudja felfogni. És mi nem engedelmeskedünk, mert nem értjük. __Nem kell értened, hogy engedelmeskedj, ismerned kell Istent és bízni Istenben azért, hogy engedelmeskedj.__”
 
@@ -242,7 +289,7 @@ Tehát nem lehet azt mondani, hogy könnyű dolguk volt abban a városban a miss
 
 - Eredmény: Imádkozó gyülekezetté vált Pavel gyülekezete. EW mondja: „amikor emberek imádkoznak, az közelebb hozza őket Istenhez és egymáshoz.” A gyülekezeti feszültségek csak ima által eltűntek.
 
-##### Imádkozás, hogy hogyan csináljuk, imádkozás Isten tervéért
+#### Imádkozás, hogy hogyan csináljuk, imádkozás Isten tervéért
 
 - És elkezdtek a gyülekezet tagjai imádkozni Isten tervéért.
 
@@ -266,7 +313,7 @@ Tehát nem lehet azt mondani, hogy könnyű dolguk volt abban a városban a miss
 
 - Azt mondták Pavelék, hogy építsünk kapcsolatot a [városi] közösséggel, mert a közösség nem ismer minket. Tehát mit csináltak? Csinálták a kapott lépéseket.
 
-#### 4\. lépés: Biblia tanulmányok
+### 4\. lépés: Biblia tanulmányok
 
 - Az Andrew Egyetemen végeztek egy felmérést. Hívtak embereket, hogy jöjjenek az egyházban Biblia tanulmányokért. Csak kb. 2 meghívott jött el 100-ből. Ha postán küldték a Biblia tanulmányokat, csak kb. 1 a 10 000-ből keresztelkedett meg. Ha csináltak Biblia tanulmányokat az egyházban vagy otthon és tanították őket, csak 2% keresztelkedne meg. De ha a Biblia tanulmányokat otthon végezték és nem tanítottak, engedték, hogy az emberek fedezzenek fel, 76% keresztelkedett meg. Egy ugrás 2%-ról 76%-ra, ez igen nagy ugrás. Az emberek nem szeretnek menni a gyülekezetedbe. De az emberek mindig komfortosnak érzik a hazamenést. Az otthonukban érzik magukat komfortosnak.
 - Így tehát, Pavelék ajánlottak, kínáltak, házi ingyenes Biblia tanulmányokat.
@@ -289,7 +336,7 @@ Tehát nem lehet azt mondani, hogy könnyű dolguk volt abban a városban a miss
 - Januárban kezdték, a Biblia tanulmányok __7-9 hónapig__ tartottak. Nehéz evangélizálást csinálni egy hónapig vagy két-három hétig, majd megkeresztelni embereket. Mert az embereknek sok idő kell a változáshoz. Az emberek nem változnak meg 2 hét alatt. Mi sem változunk meg 2 hét alatt. Miért is várjuk, hogy mások az egész életüket megváltoztassák 2 hét alatt. Amikor emberek megkeresztelkednek, akkor „újjászületnek”. Láttál már 2 hetes terhességet? Ha egészséges babát akarsz, 9 hónapra van szükség. Az embereknek nem tudnak 2 hét alatt sok információt feldolgozni. 7-9 hónap elégséges, így minden fontos tanítást fel tudnak dolgozni.
 - __3 hónap után__, míg mi folytattuk a Biblia tanulmányt, párhuzamosan a Biblia tanulmánnyal, elkezdtük a következő lépést.
 
-#### 5\. lépés: Közösségi bevonás – hogy az egyház ismertté és megbízhatóvá váljon
+### 5\. lépés: Közösségi bevonás – hogy az egyház ismertté és megbízhatóvá váljon
 
 - Először is, Pavel elment a polgármesterhez, „Figyelj, kis egyház / gyüli vagyunk, de segíteni akarunk. Mire van szükséged?” Válasz: „Nos, 50 baptista, 12 metodista, 7 presbiteránus gyülekezetünk van, de ők sose akartak segíteni. Ti kis egyház, adventisták, mit tudtok csinálni?” válasz: „mondd, mit csináljunk” válasz: „nos, takarítsátok a parkot, ami piszkos, sok papír és műanyag”. Pavel hívta a tagokat, takarították a parkot, végül azt mondták, hogy élvezték, csinálhatják-e máskor is.
 - Pavel visszament a polgármesterhez, hogy megtisztították azt a parkot, mennek egy következőhöz a következő vasárnap. Azt is megtisztították.
@@ -305,14 +352,14 @@ Tehát nem lehet azt mondani, hogy könnyű dolguk volt abban a városban a miss
 - Jézus mondta, hogy nekünk a sónak és világosságnak kell lennünk a világban. Hogy azt mondják az emberek: „szükségünk van erre az egyházra” Amikor az emberek értékelik a gyülekezetet, akkor jönnek gyülekezetbe.
 - __Három hónap után__, míg folytatták a Biblia tanulmányokat, elkezdték a következő lépést.
 
-#### 6\. lépés: Szükségesnek-érzett szemináriumok (plusz felmérés a vágyott szemináriumokért)
+### 6\. lépés: Szükségesnek-érzett szemináriumok (plusz felmérés a vágyott szemináriumokért)
 
 - Pl. főzőkör, cukorbetegség-kör, depresszióból kigyógyulás kör, ki a halálból kör, ki a függőségből kör / osztály, állj le a dohányzással kör, nevelés kör, összesen 16 kört csináltak. Minden héten egy kör, minden csütörtökön egy kör.
 - Azért csinálták ezeket a köröket, mert az emberek soha nem jönnek a gyülekezetünkbe. Azt akartuk, hogy megbarátkozzanak a gyülekezettel, annyira, ahogyan barátságos nekik az otthonuk. Hogy úgy érezzék, hogy amikor gyülekezetbe jönnek az olyan érzés, mintha haza mennének. Minden kör után egy közös étkezést tartottak, hogy beszélgessenek, és barátságokat építsenek. 2 hónap után úgy mentek gyülibe, mintha haza mennének. Az érdeklődők azt mondták ezek után, hogy mi szeretjük ezeket az embereket (a tagokat), ők a mi barátaink. Ekkorra az érdeklődők készen álltak arra, hogy gyülekezetbe menjenek szombaton.
 - Ezt __három hónapig__ csinálták, párhuzamosan a biblia tanulmányokkal.
 - __Tehát, Biblia tanulmányok 3 hónap, aztán ezt folytatták, de mellette 3 hónapig csinálták a közösségi bevonást, majd a következő 3 hónapban csinálták szemináriumokat, ez összesen 9 hónap. Készen állnak az újjászületésre.__
 
-#### 7\. lépés: Evangelizálás
+### 7\. lépés: Evangelizálás
 
 - Az egész folyamatban a gyülekezet imádkozott __minden nap__, minden nap.
 - __Amikor elkezdtük az evangélizációt, 40 napig előtte imádkoztunk, 30 napig közben, és 10 napot utána. Összesen 80 nap imádkozás.__
@@ -320,7 +367,7 @@ Tehát nem lehet azt mondani, hogy könnyű dolguk volt abban a városban a miss
 - __1 hónapig csinálták az evangélizációt.__
 - Minden egyes széksornak az előadói teremben volt egy felelőse. Ez a felelős gondoskodott a soráról. Anyagokat adott az embereknek. Imádkozott értük. És megtanulta megismerni őket. És amikor megkeresztelkedtek, a sor felelős ismerte őket, így a felelős folytatta az ő látogatásukat, az értük való imádkozást. Tehát amikor megkeresztelkedtek, már volt egy barátjuk, volt valaki, aki meglátogatja őket, valaki aki felhívja őket, valaki, akivel együtt imádkozhatnak. Tehát nem az van, hogy gyülekezetbe jönnek és egyedül vannak, hanem barátaik vannak a gyülekezetben. Van támaszuk, amikor küzdenek szombat, család vagy egyéb dolgokkal.
 
-##### Munka adás az érdeklődőknek
+#### Munka adás az érdeklődőknek
 
 - Azok az emberek, akik dolgoznak, ők érzik, hogy van ok amiért eljöjjenek. A lusta emberek nem jönnek.
 - Tehát Pavel munkát adott a látogatóknak. Pl. valakinek ezt mondja: “X kitakarítanád a gyüli előtti kukát?”, másiknak: “szeretném, ha gondoskodnál a parkolásról”, egy fiatal lánynak: “Üdvözöld a fiatalokat akik jönnek a gyülibe (a két idős emberen kívül, akik meg a többieket üdvözlik). Amikor belépnek az ajtón, öleld meg őket, és mondd: Üdvözöllek a gyülekezetünkben. Meg tudod csinálni?” A példában a fiatal lány 3 nap után mondta Pavelnek, hogy nagyon örül ennek a szolgálatnak, mert így úgy érzi, hogy Isten használja őt.
@@ -328,13 +375,13 @@ Tehát nem lehet azt mondani, hogy könnyű dolguk volt abban a városban a miss
 - Figyelem, a lusta adventisták nem adventisták. Csak azok akik dolgoznak.
 - Tehát Pavel mindenkinek munkát adott, mondva „az Adventista Egyháznak 28 hitelve van, nekem 29” „Mit értesz ez alatt Pásztor?” „Az én gyülekezetemben a 29. hitelv az az, hogy **nem kellene lustának lenned**. Ha lusta vagy, nem fogsz megkeresztelkedni a gyülekezetembe. Amikor megkeresztelkedsz, már munkás vagy. Ha lusta vagy, menj egy másik gyülibe, akkor nem üdvözlünk téged.” Mindenkinek dolgoznia kell.
 
-#### 7\. lépés folytatása
+### 7\. lépés folytatása
 - Evangélizációkor, valamikor Pavel, valamikor más neves előadók beszéltek.
 - Pavel tanulságos története: Pavel kiemel egy neves előadót, aki nagy városokban evangélizált, és míg a Pavel városában 51-en keresztelkedtek meg, a következő városban 0. Erre annak a városnak a lelkésze felkereste Pavelt, hogy az a neves előadó ott jobb előadást adott? Pavel: Nem, ő ugyanazt az előadást adta, ugyanazok a diák. „De akkor te miért keresztél 51-et én meg 0-t?” Pavel: Hány napig imádkoztál? „Nem imádkoztunk.” Pavel: mi 80 napig imádkoztunk, mi hiszünk az ima erejében, hiszünk Isten erejében. Hány Biblia tanulmányt végeztetek? „0” Mi 270-et. Mennyi közösségi tevékenységet végeztetek (a városban)? „0” Mi kb. három hónapig minden vasárnap. Mennyi szemináriumot végeztetek a gyülekezetedben? „0” Mi 24-25 szemináriumot tartottunk a gyülinkben. Nem csinálhatsz semmit valami eredményt várva! Nem szüretelhetsz paradicsomot, ha nem plántáltál.
 - Ha imádkozol és dolgozol, Isten megáldja a munkádat (jó eredménnyel).
 - Evangélizálás után következik a következő lépés.
 
-#### 8\. lépés: Nyomonkövetés
+### 8\. lépés: Nyomonkövetés
 
 - Néha azt gondoljuk, hogy ha valaki megkeresztelkedett, akkor az a történet vége. Amikor valaki újjászületik, akkor az a történet kezdete nem a vége. Mert egy bébi nem gondoskodik magáról, ez gyerek bántalmazás. Egy gyereket etetni kell, pelenkát cserélni kell… Ha nem gondozzák a bébiket, elhagyják a gyülit, vagy soha nem nőnek fel, 40 évesek a gyüliben és még mindig pelenkát viselnek és bűzlenek.
 - Bébijeink vannak a gyülinkben, mert nem gondoskodunk róluk. Szükséges a tejtől eljutni az erős ételekig, a bébi állapottól a Krisztus teljességéig, lelki érettséghez. Gondoskodnod kell a bébiről, nyomonkövetni, hogy megbizonyosodjuk róla, hogy a tagok erős tagok és nem problémás tagok.
@@ -346,9 +393,9 @@ Tehát nem lehet azt mondani, hogy könnyű dolguk volt abban a városban a miss
 - És amikor Januárban kezdték a folyamat kört elölről, minden új keresztelkedett elkezdte tanítani az ő családjaikat és barátaikat.
 - Ha minden tag ad egy Biblia tanulmányt, akkor tudod mennyire gyorsan nő az egyház? Mindannyian erőssé válnak. Az 51 megkeresztelkedettből 1 nő nem akart dolgozni, és végül egyedül ő hagyta ott a gyülekezetet 3 hónap után, mert azok, akik nem csinálnak semmit, ők nem egészségesek lelkileg.
 
-#### 9\. lépés: Elemzés, fejlődés
+### 9\. lépés: Elemzés, fejlődés
 
-#### 10\. lépés: A folyamat ismétlése
+### 10\. lépés: A folyamat ismétlése
 
 - __Januárban kezdték a folyamat kört elölről__, minden új keresztelkedett elkezdte tanítani az ő családjaikat és barátaikat.
 
