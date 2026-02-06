@@ -140,7 +140,7 @@ Tehát nem lehet azt mondani, hogy könnyű dolguk volt abban a városban a miss
 
 #### Meghívásos módszer
 - Bevált módszer: ha meghívunk egy idegent magunkhoz, akkor mondjuk azt, hogy ebből a házból senki nem távozhat anélkül, hogy ne imádkoznánk érte, majd azt, hogy neked nem kell imádkoznod (csak csukja be a szemét), majd megkérdezzük, hogy miért szeretné, ha imádkoznánk. Imádkozni még étkezés előtt. Először az ételért, majd az idegenért imádkozunk.
-- Bevált módszer: Meghívni az idegen(eke)t az együtt játszásra. Próbáljuk rendszeressé tenni az összejöveteleket. Egy idő után, evés és játék után, imádkozzunk együtt a vendégekkel.
+- Bevált módszer: Meghívni az idegen(eke)t együtt játszásra. Próbáljuk rendszeressé tenni az összejöveteleket. Egy idő után, evés és játék után, imádkozzunk együtt a vendégekkel.
 
 ### Hogyan imádkozzunk?
 - Hetente egyszer egy órát imádkozzunk egy célért.
@@ -177,7 +177,7 @@ Tehát nem lehet azt mondani, hogy könnyű dolguk volt abban a városban a miss
 - Nagyon egyszerű, __ha az a terv kicsi és normális, az a te terved. Ha az a terv nagy és őrült, az Isten terve.__
 - __Ha Isten adja neked a tervet, Isten adja az áldásokat és az erőforrásokat. Ha a te terved, ne kérd az Ő áldását. Ha Isten terve, akkor megkapod az Ő áldását.__
 - Nagyon fontos, amikor Isten dolgozik, semminek nincs értelme. Emberek azt mondják, hogy én ezt nem tudom csinálni, én nem értem. Ne próbáld megérteni Istent, próbálj meg bízni Istenben. Nem kell megértened Isten, mert a te agyad kicsi Isten agyához képest, ami végtelen. Soha nem érted meg Istent, mert nem vagy Isten. Neked bíznod kell Istenben. Bízni és engedelmeskedni. Nincs más út.
-- Honnan ismerjük Isten tervét? Istennel kell töltened időt. Minőség időt kell töltened imádságban és ige / munka tanulmányozásban. EW azt mondja a 6. bizonyságtételekben, hogy ima által Istenhez beszélünk, az ige által Isten beszél hozzánk. És EW azt mondja, hogy imádkozás és az ige tanulmányozása soha ne legyenek elkülönítve egymástól, ez kettő csak együtt megy, mint egy dialógus, imádkozol és tanulmányozol, így te beszélsz és Isten beszél. Az ima a lélek lélegzetvétele. A lélegzés kétirányú, épp így, te beszélsz, Isten beszél, te beszélsz, Isten beszél… . Amit te mondasz, az nem annyira fontos, amit Isten mond, az az igazán fontos. Isten beszél az ige által, úgyhogy neked tanulmányozni kell. Imádkozz és tanulmányozz, ezáltal megismered Istent, mert nem azért tanulmányozol, mert kötelesség, hanem azért, hogy megismerd Istent. Mi a tanulmányozás haszna, ha nem ismered Jézust. A Biblia azt mondja, hogy egy végtelen élet az az, hogy ismerni Istent. Tanulmányozás által megértjük, hogy Isten mit akar nekünk mondani.
+- Honnan ismerjük Isten tervét? Istennel kell töltened időt. Minőségi időt kell töltened imádságban és ige / munka tanulmányozásban. EW azt mondja a 6. bizonyságtételekben, hogy ima által Istenhez beszélünk, az ige által Isten beszél hozzánk. És EW azt mondja, hogy imádkozás és az ige tanulmányozása soha ne legyenek elkülönítve egymástól, ez kettő csak együtt megy, mint egy dialógus, imádkozol és tanulmányozol, így te beszélsz és Isten beszél. Az ima a lélek lélegzetvétele. A lélegzés kétirányú, épp így, te beszélsz, Isten beszél, te beszélsz, Isten beszél… . Amit te mondasz, az nem annyira fontos, amit Isten mond, az az igazán fontos. Isten beszél az ige által, úgyhogy neked tanulmányozni kell. Imádkozz és tanulmányozz, ezáltal megismered Istent, mert nem azért tanulmányozol, mert kötelesség, hanem azért, hogy megismerd Istent. Mi a tanulmányozás haszna, ha nem ismered Jézust. A Biblia azt mondja, hogy egy végtelen élet az az, hogy ismerni Istent. Tanulmányozás által megértjük, hogy Isten mit akar nekünk mondani.
 
 ### Isten hangja
 - Valaki mondja: „Pásztor, honnan ismered Isten hangját. Hogyan különbözteted meg Isten hangját a saját hangodtól, Sátán hangjától, és a hangtól, amikor túl sok pizzát eszel és nem alszol eleget. Hogy különbözteted meg Isten hangját?”
@@ -222,7 +222,7 @@ Tehát nem lehet azt mondani, hogy könnyű dolguk volt abban a városban a miss
 ## A növekedési / missziós lépések:
 - Megváltoztathatjuk a módszert, de az alapelvek ugyanazok, imádkozz, tervezz, dolgozz, az alapelvek ugyanazok, talán megváltoztathatjuk, hogy mikor csináljuk, hogy melyik házban kellene csinálni, megváltoztathatjuk a részleteket, de az alapelvek nem változnak.
 
-(A lépéseknél az időtartamokra vonatkozó adatok ki vannak emelve, hogy egyből lássuk, mit mennyi ideig kellene csinálni.)
+(A lépéseknél az időtartamokra vonatkozó adatok ki vannak emelve, hogy egyből lássuk, mit mennyi ideig csináltak.)
 
 ### 1\. lépés: Imádkozás - egy imakultúra fejlesztése
 
