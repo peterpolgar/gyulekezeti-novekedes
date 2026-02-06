@@ -123,8 +123,8 @@ Tehát nem lehet azt mondani, hogy könnyű dolguk volt abban a városban a miss
 ### Miért imádkozzunk?
 - Isten mondta, hogy imádkozz, imádkoznod kell, ez a te áldásod, áldásokat kapsz amikor imádkozol.
 - A Jézus eljövetelére való előkészület egy részeként, Jézus azt mondta, hogy imádkozzunk és figyeljünk.
-- **Máté 18:19** Ismét, mondom nektek, hogy ha ketten közületek egy akaraton lesznek a földön minden dolog felől, amit csak kérnek, megadja nekik az én mennyei Atyám.
-    **Máté 18:20** Mert ahol ketten vagy hárman egybegyűlnek az én nevemben, ott vagyok közöttük.
+- **Máté 18:19** "Ismét, mondom nektek, hogy ha ketten közületek egy akaraton lesznek a földön minden dolog felől, amit csak kérnek, megadja nekik az én mennyei Atyám."
+    **Máté 18:20** "Mert ahol ketten vagy hárman egybegyűlnek az én nevemben, ott vagyok közöttük."
 
 ### Az imameghallgatás feltétele
 - A bűnvallomás egy fontos lépés ahhoz, hogy Isten meghallgassa imáinkat. (Jákób története)
@@ -135,11 +135,11 @@ Tehát nem lehet azt mondani, hogy könnyű dolguk volt abban a városban a miss
 ### Hogyan vezethetünk egy érdeklődőt, idegent Istenhez?
 - Ellen White azt mondja, hogy Krisztus módszere egyedül, mi is az? Együtt evett velük, elvegyült közöttük, meghallgatta őket, barátságokat épített, kapcsolatokat épített, bizalmat épített és közeli barátságot, és ez után mondta azt, hogy „Kövess engem”.
 - EW mondja, hogy te soha nem tudsz vezetni egy idegent Krisztushoz, csak egy barátot.
-- Tehát miután barátságot építünk ki valakivel, azután fokozatosan adjuk a dolgokat, először a megváltásról, aztán a szombatról. A kereszttel kezdjünk, hogy megértsék Isten szeretetét. Mi van ha kérdeznek? Ne mondd el nekik, engedd, hogy könyörögjenek válaszért, mert ha elmondod nekik, azt fogják hinni, hogy van egy propagandád, ha rákérdeznek, akkor méltányolni fogják a választ, ne mondd el nekik.
-- Jézus példáját látva kijelenthető, hogy: Senki nem tud vezetni egy idegent Istenhez, csak egy barátot. Barátságot kell építened, hogy az emberek megbízzanak benned. Mielőtt meghívod őket, először kapcsolat kell építeni velük.
+- Tehát miután barátságot építünk ki valakivel, azután fokozatosan adjuk a dolgokat, először a megváltásról, aztán a szombatról. A kereszttel kezdjünk, hogy megértsék Isten szeretetét. Mi van ha kérdeznek? Ne mondd el nekik, engedd, hogy könyörögjenek válaszért, mert ha elmondod nekik, azt fogják hinni, hogy van egy propagandád, ha rákérdeznek, akkor méltányolni fogják a választ.
+- Jézus példáját látva kijelenthető, hogy: Senki nem tud vezetni egy idegent Istenhez, csak egy barátot. Barátságot kell építened, hogy az emberek megbízzanak benned. Mielőtt meghívod őket, először kapcsolatot kell építeni velük.
 
 #### Meghívásos módszer
-- Bevált módszer: ha meghívunk idegent magunkhoz, akkor mondjuk azt, hogy ebből a házból senki nem távozhat anélkül, hogy ne imádkoznánk érte, majd azt, hogy neked nem kell imádkoznod (csak csukja be a szemét), majd megkérdezzük, hogy miért szeretné, ha imádkoznék. Imádkozni még étkezés előtt. Először az ételért, majd az idegenért imádkozunk.
+- Bevált módszer: ha meghívunk egy idegent magunkhoz, akkor mondjuk azt, hogy ebből a házból senki nem távozhat anélkül, hogy ne imádkoznánk érte, majd azt, hogy neked nem kell imádkoznod (csak csukja be a szemét), majd megkérdezzük, hogy miért szeretné, ha imádkoznánk. Imádkozni még étkezés előtt. Először az ételért, majd az idegenért imádkozunk.
 - Bevált módszer: Meghívni az idegen(eke)t az együtt játszásra. Próbáljuk rendszeressé tenni az összejöveteleket. Egy idő után, evés és játék után, imádkozzunk együtt a vendégekkel.
 
 ### Hogyan imádkozzunk?
